@@ -5,7 +5,7 @@ name (string)
 vintage (integer like the year)
 region (string)
 price (float)
-color (string)
+color (array)
 inventory (integer)
 
 Methods
@@ -13,3 +13,4 @@ increase_price (modifies the price attribute, based on inventory)
 order_wine (orders additional bottles as inventory decreases)
 change_name (change the menu name based of the name of the actual wine that week)
 list_region (perhaps we could feature a regional wine list, and print off the inventory we have weekly)
+add_color(update array to include additional wine colors like pink or rose)
