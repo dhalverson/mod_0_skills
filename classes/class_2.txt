@@ -1,0 +1,14 @@
+Chef
+
+Attributes
+name (string)
+experience (integer)
+age (integer)
+salary (integer)
+birthday (string)
+
+Methods
+change_name (change John to Johnny, update the name attribute)
+list_experience (display the chef's experience, on the website and increase by 1 anually)
+add_age (add 1 to age value every year, on their birthday)
+increase_salary (based of the experience attribute, multiple base salary per schedule)

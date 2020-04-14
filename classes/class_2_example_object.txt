@@ -1,0 +1,13 @@
+Sous Chef Dan
+
+name (string) - Chef Dan
+experience (integer) - 13 (in years)
+age (integer) - 37 (in years)
+salary (integer) - 115,000
+birthday (string) January 01, 1983
+
+Methods
+change_name (change Daniel to Chef Dan, as he prefers that)
+list_experience (prints experience, and increases by 1 every year employed)
+add_age ( take age + 1 every year, as Chef Dan gets older)
+increase_salary (take Chef Dan's salary, and increase by (X) percent every year for cost of living and raises)

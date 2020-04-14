@@ -1,0 +1,14 @@
+Monet 1992 Pinot Grigio 750ml
+
+name (string) - Monet
+vintage (integer like the year) - 1992
+region (string) - Italy
+price (float) - 129.99
+color (string) - White
+inventory (integer) - 13
+
+
+increase_price (due to low supply, we want to increase the price from 99.99 to 129.99, this is changing the price attribute)
+order_wine (low inventory number, order more wine. this would then change the inventory)
+change_name (update to a shorter name for specials menu, this would update the name)
+list_region (print or display the region, for our regional wine list)
