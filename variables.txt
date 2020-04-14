@@ -1,0 +1,13 @@
+food = "pizza"
+is_delicious = true
+food = "tacos"
+num2 = 50
+num7 = 100
+
+quotient = num7 / num2
+
+songs = ["Me", "Small Things", "Don't Stop Believing"]
+
+songs.shift
+
+food.length
