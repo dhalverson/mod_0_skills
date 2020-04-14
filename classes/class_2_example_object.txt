@@ -10,4 +10,4 @@ Methods
 change_name (change Daniel to Chef Dan, as he prefers that)
 list_experience (prints experience, and increases by 1 every year employed)
 add_age ( take age + 1 every year, as Chef Dan gets older)
-increase_salary (take Chef Dan's salary, and increase by (X) percent every year for cost of living and raises)
+increase_salary (take Chef Dan's salary, and increase by (X) percent every year for cost of living and raises) 
